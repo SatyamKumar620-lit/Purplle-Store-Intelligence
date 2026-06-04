@@ -1,0 +1,273 @@
+{"event_id": "e763ebb6-c52f-4e93-89b5-c5ce897edac3", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-03T17:34:31.440666"}
+{"event_id": "47518109-f386-434f-a174-794ed2951745", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-03T17:34:31.446513"}
+{"event_id": "0a5c99f2-fad0-4df9-aef0-7225e31289c0", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-03T17:34:31.456092"}
+{"event_id": "c0d0b7ec-79c1-49d2-9588-7d6bf6f8d77c", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-03T17:34:31.461528"}
+{"event_id": "e8291ce4-e82d-4955-8e35-a3dd89f87d0d", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-03T17:34:40.701131", "dwell_seconds": 9.45}
+{"event_id": "c27d0e36-bfcc-495f-898b-ce24a456c1ef", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-03T17:34:40.708673", "dwell_seconds": 9.45}
+{"event_id": "78f73895-260d-4d24-b43f-7118d586c663", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.897113"}
+{"event_id": "347a9eda-747b-4757-a77b-ac3c82100bfe", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.905687"}
+{"event_id": "e34f43cc-ab32-4b73-bb59-5e711ead59fd", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.911711"}
+{"event_id": "59167cb5-48a0-465a-a32a-bb4491e9efe9", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.917784"}
+{"event_id": "c9d8186c-2b90-4518-abd8-f50bb2b52472", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.923555"}
+{"event_id": "8b9890b2-1adc-4522-a01d-e463ae717a9f", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.931888"}
+{"event_id": "e1af1c7d-ef18-4a02-a020-5118fe030016", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.937998"}
+{"event_id": "7738c9f8-0a08-4928-9477-56a34aec5641", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.945170"}
+{"event_id": "09b3e8ae-3e95-438e-87de-eadcfc2bbbe7", "visitor_id": "5", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.952238"}
+{"event_id": "7fd1d6b6-3a28-441e-92d0-dd79cca22079", "visitor_id": "5", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:47.962690"}
+{"event_id": "a94460d4-128d-4dfe-95e5-133e8e53f137", "visitor_id": "6", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:49.266219"}
+{"event_id": "a8c1a11a-f14d-47f0-9743-ea2882fcfcc0", "visitor_id": "6", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:49.274922"}
+{"event_id": "a4722407-6cc4-4a13-9c47-e3237c942a04", "visitor_id": "7", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:52.191657"}
+{"event_id": "5b77bfbb-2ef5-44bc-86b2-4580383f6f31", "visitor_id": "7", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:52.202118"}
+{"event_id": "6e9dc2d0-87c1-40de-9d4a-b521acd72c10", "visitor_id": "8", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:52.949692"}
+{"event_id": "80b42fe4-0e36-4c6f-a35a-aa9d45d7c3bf", "visitor_id": "8", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:52.965112"}
+{"event_id": "a041b73c-833c-4efb-ad62-5c966ad51cea", "visitor_id": "9", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:53.574785"}
+{"event_id": "631ccd82-10e8-4249-bc8c-8d64dfa26bf2", "visitor_id": "9", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:53.589197"}
+{"event_id": "4f03d1c2-e2b7-4b8f-9fa0-4642fbd14db7", "visitor_id": "10", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:53.740974"}
+{"event_id": "b047131f-0996-4f42-94c1-de23cf8cc52b", "visitor_id": "10", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:53.757571"}
+{"event_id": "ae43bcc4-e3e8-40a2-9f69-2c66c9cbc6f8", "visitor_id": "6", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:54.420297"}
+{"event_id": "872472cd-e1a3-495b-8536-7d38e8e529be", "visitor_id": "3", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:55.591752"}
+{"event_id": "373e961f-ef9b-46a0-8059-a6ccc53012b3", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.350602", "dwell_seconds": 8.62}
+{"event_id": "e6e007eb-f887-4e00-99af-ab008656279d", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.367184", "dwell_seconds": 5.69}
+{"event_id": "c47e014a-977e-4f3f-8a95-7edde5d6accb", "visitor_id": "4", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.370910", "dwell_seconds": 8.31}
+{"event_id": "9c45a669-fcf5-4969-9766-9a401d0dbe4a", "visitor_id": "5", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.379102", "dwell_seconds": 8.62}
+{"event_id": "a01285fd-87ac-4148-a957-09beb3c72655", "visitor_id": "7", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.384853", "dwell_seconds": 0.2}
+{"event_id": "946c0c8f-ef38-480e-b44c-e18ca311b731", "visitor_id": "8", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.393250", "dwell_seconds": 3.4}
+{"event_id": "6e6f04df-1875-4144-a1f0-bd317b1c2c32", "visitor_id": "9", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.400891", "dwell_seconds": 2.78}
+{"event_id": "63523c9f-62df-45e6-afbe-071ab0998509", "visitor_id": "10", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-03T17:34:56.411044", "dwell_seconds": 2.6}
+{"event_id": "c1d51cd8-3f8f-4225-9b35-6671e6f54ab1", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:03.849651"}
+{"event_id": "0415d222-7ae2-472d-bd36-37b4bc5cb598", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:03.864587"}
+{"event_id": "411dcf00-86bc-4f3f-a5dd-741e41c913a9", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:05.045208"}
+{"event_id": "ca2cc628-7d2c-4d92-9adb-322323378d0e", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:05.064857"}
+{"event_id": "a4e228eb-3faf-4cd4-bca0-8ebcbe442dcd", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:05.928296"}
+{"event_id": "c9639811-5343-4e43-bced-408b964c7d9c", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:05.956556"}
+{"event_id": "c753c14c-97c8-43b9-ab25-99fc032e87cb", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:08.858348"}
+{"event_id": "1f695f00-694a-47c9-ad90-e9f87c7d91c2", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:08.874919"}
+{"event_id": "404cdc3c-75fb-45f7-8b48-3e8f42ea4975", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:13.742536"}
+{"event_id": "a5295b3f-d77d-4cc6-8043-79eb38ea4655", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:13.909615", "dwell_seconds": 8.02}
+{"event_id": "bf242532-52b3-49ba-9e18-a9828fecbe1f", "visitor_id": "3", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:13.924150", "dwell_seconds": 7.96}
+{"event_id": "acd0ca2c-1c7f-445b-94ab-f6a22f9884e6", "visitor_id": "4", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-03T17:35:13.931800", "dwell_seconds": 0.58}
+{"event_id": "28aae0a3-0c32-4b0f-b225-a809538c31ce", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:20.627271"}
+{"event_id": "cffca300-2cf8-4151-a2cb-465a498cc2a9", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:20.644538"}
+{"event_id": "0650b0d3-d275-4d25-b640-031ecfe9a4a9", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:24.744170"}
+{"event_id": "75bcfb5e-51d0-4ae1-9ed4-ec883bc8a971", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:24.759897"}
+{"event_id": "ab31832e-1321-40a9-a043-cf298ee15e80", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:30.385643"}
+{"event_id": "f98dab70-97be-484b-8e7a-10cb6d516e28", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:30.592445"}
+{"event_id": "7d4f1165-2d12-44ce-9f39-743357573c8c", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:30.607749"}
+{"event_id": "0d68d7e2-7af7-4bc9-a1de-c38ecafc62c7", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:32.213950"}
+{"event_id": "9beedd3e-c6d7-4ee9-b137-a9b615893ec6", "visitor_id": "3", "event_type": "EXIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-03T17:35:35.758216", "dwell_seconds": 5.17}
+{"event_id": "91cef3e0-7a77-4e5b-a3ea-331b7927b797", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:44.243269"}
+{"event_id": "f97b3814-fefd-4342-81c8-b2eafff8498a", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:44.259836"}
+{"event_id": "6ce00f01-8881-4efc-b829-585746bf0425", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:45.988093"}
+{"event_id": "e31380f6-09ff-4437-b152-76327e04edc6", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:46.002624"}
+{"event_id": "aad8b4a5-7078-459b-bbcb-37e806783204", "visitor_id": "1", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:49.753039"}
+{"event_id": "6814c46e-4b92-4dd1-b8f5-60f1c7a0b0c6", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:50.968082"}
+{"event_id": "6ccd1650-1d93-417a-9dfb-fcdd59842ee5", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:50.985212"}
+{"event_id": "c3702145-6e58-4cc2-8fac-8af169f25e22", "visitor_id": "2", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:51.542103", "dwell_seconds": 4.29}
+{"event_id": "e5bfa15d-068b-41fa-9f18-240c7e903efc", "visitor_id": "3", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-03T17:35:51.560123", "dwell_seconds": 0.0}
+{"event_id": "59ab8ba0-de52-4392-8c5a-adf40da98834", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:35:59.275261"}
+{"event_id": "13742b70-6745-433d-a0c6-e2d5ee3b921b", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:35:59.292367"}
+{"event_id": "1fd9be8f-5bb9-4950-837d-2bf5801ecbc6", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:35:59.299072"}
+{"event_id": "f51ef09f-0434-4c13-8695-31265ce3d02f", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:35:59.308236"}
+{"event_id": "02e5d30f-dff6-4294-b771-507dd3a4694b", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:01.547397"}
+{"event_id": "ab5453b2-f626-42b5-9cfc-b9356f4ea35a", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:01.563041"}
+{"event_id": "6ee8e690-6627-4769-835c-a3540f163bb7", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:02.797933"}
+{"event_id": "d95ab518-ce95-4d90-b6c3-4e203848156a", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:02.813291"}
+{"event_id": "13e7f9b7-00ce-4921-8b0d-c0b355de37e8", "visitor_id": "5", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:03.604461"}
+{"event_id": "bac43e34-decc-4689-8ab5-51c5d7bec136", "visitor_id": "5", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:03.618843"}
+{"event_id": "703c2762-eebd-438a-bb58-949f05367e14", "visitor_id": "6", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:03.627022"}
+{"event_id": "09001b5b-44d1-4e1c-be38-d4a84d86f912", "visitor_id": "6", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:03.639255"}
+{"event_id": "7e614460-07e5-44b5-8747-d3e4be012a0c", "visitor_id": "7", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:04.228715"}
+{"event_id": "94da0bb1-4a0f-49f8-bcf2-ac836a252f05", "visitor_id": "7", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:04.245695"}
+{"event_id": "7b6e2272-6463-49e7-8be9-fcfebb81a716", "visitor_id": "8", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:04.382334"}
+{"event_id": "ed16e6f5-6fcc-45ee-ad79-e409db0815bb", "visitor_id": "8", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:04.399078"}
+{"event_id": "1af0a6cc-5c65-4c19-87eb-89be0c6d78ac", "visitor_id": "1", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.314076", "dwell_seconds": 3.2}
+{"event_id": "130e9e8e-e52c-417b-acab-18b71963d4eb", "visitor_id": "2", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.322470", "dwell_seconds": 6.23}
+{"event_id": "f5f3be4c-ed1e-4b94-900b-31f1117dc6d1", "visitor_id": "3", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.330989", "dwell_seconds": 1.45}
+{"event_id": "26469a98-83c4-43ff-84cc-2639699984ca", "visitor_id": "4", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.338361", "dwell_seconds": 0.63}
+{"event_id": "bbac3b42-becc-4af3-9e52-a9427841e107", "visitor_id": "5", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.349850", "dwell_seconds": 1.68}
+{"event_id": "bf791d0c-3b8e-4755-8c76-139f0d77b597", "visitor_id": "6", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.360856", "dwell_seconds": 1.68}
+{"event_id": "659cc107-8d98-4568-ab3b-8d16de328453", "visitor_id": "7", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.371589", "dwell_seconds": 1.07}
+{"event_id": "9b2f7911-b006-40f1-ba2a-39da5e7bb3f8", "visitor_id": "8", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-03T17:36:05.377812", "dwell_seconds": 0.71}
+{"event_id": "ef4d2075-df26-4f2f-9289-2ab74ee999ef", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:18.053799"}
+{"event_id": "79472fa3-e1c0-49b4-88e7-1be8a3f0c33c", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:18.072179"}
+{"event_id": "00252d0d-1ac3-4784-8a38-5ed3c7d33c56", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:24.862901"}
+{"event_id": "2b062050-7ba2-4948-8556-df4cfb9339c7", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:24.880632"}
+{"event_id": "fd7fa8fc-839d-444c-bc97-acc020218dfa", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:25.845505"}
+{"event_id": "8e7eec36-d6c6-427c-9c08-0ca9091fa60a", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:25.862132"}
+{"event_id": "ae7f346d-1a3f-4a02-a742-307772d616b7", "visitor_id": "1", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:28.369939"}
+{"event_id": "0cd1ed98-083f-4e71-be97-747faadbf19a", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:30.792894"}
+{"event_id": "8470693d-b92e-4dfb-86e4-6031a0eb7ab8", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:30.809744"}
+{"event_id": "efce52e8-5068-4cc8-a1f9-07baaf698b9a", "visitor_id": "2", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:31.769555"}
+{"event_id": "16b98290-9a4f-4bdc-9bae-0a7b16b8c441", "visitor_id": "3", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:34.999591", "dwell_seconds": 9.16}
+{"event_id": "b97e77ec-9ede-4ec7-9af2-6df78085c9f1", "visitor_id": "4", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-03T17:36:35.016583", "dwell_seconds": 3.51}
+{"event_id": "a01ae937-b976-4019-b291-b0215e6cc1ea", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:39.170017"}
+{"event_id": "e16cc6e3-32ae-4082-b007-54f489fae2b6", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:39.187340"}
+{"event_id": "44e02e5a-f754-46a2-8c52-f89ad6701a84", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:42.124483"}
+{"event_id": "e3b9f6ff-9bb2-47dd-925c-48b7e96e788a", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:42.141076"}
+{"event_id": "45409bee-f258-4333-b5f7-c2fe823a4290", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:42.987596"}
+{"event_id": "5b6a855f-fdd3-4b25-bcca-ebce82965586", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:43.004915"}
+{"event_id": "ff59d6c1-075b-4e71-8c45-d077a678bc77", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:45.711589"}
+{"event_id": "f4b55c67-edfe-49dd-8842-c97a7a30a5e6", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:45.719961"}
+{"event_id": "e7897775-6d75-4922-99b8-57a9ae6ad140", "visitor_id": "2", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:47.221809"}
+{"event_id": "04e7fc91-875a-4e07-bd8a-7c2d477b6aab", "visitor_id": "3", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:48.475526"}
+{"event_id": "158f3263-b194-494f-af26-50c2586b76f4", "visitor_id": "5", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:48.632049"}
+{"event_id": "691a22c4-f5b6-4960-bf73-907d22fa3adb", "visitor_id": "5", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:48.650605"}
+{"event_id": "1d6a2b11-5476-4690-b468-9547e9e6ea10", "visitor_id": "6", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:48.927810"}
+{"event_id": "b8f68b6b-35e1-4ad2-a6da-ec1b42b63217", "visitor_id": "6", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:48.948333"}
+{"event_id": "b6c54c05-849d-4542-98f3-b9b982fd4d93", "visitor_id": "1", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:49.759391", "dwell_seconds": 8.49}
+{"event_id": "db4d15f7-aaed-4a09-b0aa-00f345bf83c2", "visitor_id": "4", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:49.776508", "dwell_seconds": 0.33}
+{"event_id": "57fd6c09-718a-4f95-9c51-9776ed3f8898", "visitor_id": "5", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:49.785973", "dwell_seconds": 1.16}
+{"event_id": "b6c94aab-86b1-418e-82bc-1b6c3db9fcb2", "visitor_id": "6", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-03T17:37:49.796115", "dwell_seconds": 0.17}
+{"event_id": "043e4d29-c031-466c-8026-86b512e10f7d", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-04T10:17:36.260903"}
+{"event_id": "7172bbed-b3db-4852-a961-18fe836226ec", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-04T10:17:36.266925"}
+{"event_id": "3b28712a-0431-4e3e-95d6-a743ed5c0496", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-04T10:17:36.275972"}
+{"event_id": "b8785150-a81b-4b23-beff-7964998f9cb3", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-04T10:17:36.282589"}
+{"event_id": "6d777b01-ab71-40c3-bd82-dd5cd94a7c22", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-04T10:17:46.743241", "dwell_seconds": 10.69}
+{"event_id": "5934ab3c-4460-4d9f-8bf3-69d114580b8b", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_1_ZONE", "timestamp": "2026-06-04T10:17:46.752791", "dwell_seconds": 10.69}
+{"event_id": "48f821ee-c6e2-4680-b7a5-52ca1a20efc2", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.612580"}
+{"event_id": "bde459ad-c121-402d-a097-c1c025e1a66d", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.621759"}
+{"event_id": "5011737e-5c09-4c58-90b0-4a4dfa99e607", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.627392"}
+{"event_id": "324adae7-0c3d-490c-a274-e6b8a01a7bff", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.635671"}
+{"event_id": "ce47fac7-fc90-4761-a626-f634ea53e905", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.644079"}
+{"event_id": "3fd76afc-6717-458e-86e7-2680c5923ab7", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.651935"}
+{"event_id": "46f80826-2dd0-4830-90d8-736d4efb4aa9", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.661314"}
+{"event_id": "fe55643a-e62b-4c75-a725-959a6f63576c", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.668100"}
+{"event_id": "3b874d0a-3166-4f44-b4c4-193e5cee060c", "visitor_id": "5", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.676070"}
+{"event_id": "9bdc302a-f9b6-4075-9a64-0fc664d5bcd0", "visitor_id": "5", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:53.683386"}
+{"event_id": "2eb9ece0-6f42-44be-8c42-6527d4637659", "visitor_id": "6", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:55.687172"}
+{"event_id": "382e0927-622f-4dad-aa9b-d5b27727ec43", "visitor_id": "6", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:17:55.698965"}
+{"event_id": "7b2d4f7d-dc9f-49f9-b1ac-532b91683944", "visitor_id": "7", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:00.282041"}
+{"event_id": "5e441211-1c4b-4904-a9db-ac73bb29a784", "visitor_id": "7", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:00.292985"}
+{"event_id": "31536baf-d6e6-4bc3-b41e-8862c54a7909", "visitor_id": "6", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:00.835817"}
+{"event_id": "039bd3b2-0d75-41ef-8469-047fdbe938ce", "visitor_id": "8", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:01.422733"}
+{"event_id": "875d740d-4cf6-4f6a-b37c-7669ed416c96", "visitor_id": "8", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:01.439708"}
+{"event_id": "672b640d-b548-4315-b821-408cf3cb1ef0", "visitor_id": "9", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:02.519938"}
+{"event_id": "62d25ca6-1da9-442c-8c84-1988c0cf9d1d", "visitor_id": "9", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:02.536571"}
+{"event_id": "6e7672fd-bcf4-44ee-8bb6-3b70c2291e2a", "visitor_id": "10", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:02.840139"}
+{"event_id": "387b98c8-36f6-49cc-ab52-c5aab083a68f", "visitor_id": "10", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:02.856645"}
+{"event_id": "c058c410-2663-417f-be7a-6f1e3c993177", "visitor_id": "3", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:02.867978"}
+{"event_id": "b042ce4c-379f-4aaa-9c98-e9439de51222", "visitor_id": "7", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:05.563192"}
+{"event_id": "918a4d3d-2f7f-4a0f-b7d4-2338db3144de", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:07.298124"}
+{"event_id": "a0d7dad4-7522-4c31-958b-8b4aa1e89afb", "visitor_id": "11", "event_type": "ENTRY", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:08.980634"}
+{"event_id": "6d6ddba6-bbcb-4258-ab87-f5f9d6586173", "visitor_id": "11", "event_type": "ZONE_VISIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:08.992010"}
+{"event_id": "f1c245c0-b17a-41d7-9e9d-4cc23f328ac4", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:09.454313", "dwell_seconds": 16.01}
+{"event_id": "95399142-da06-4a6b-94b7-0a7591e0364a", "visitor_id": "4", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:09.467621", "dwell_seconds": 16.01}
+{"event_id": "3c19d6c1-f367-474b-8ba4-3ccf7302cd0d", "visitor_id": "5", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:09.478275", "dwell_seconds": 16.01}
+{"event_id": "a9e69e35-d2ee-485c-b5f9-af24c8737df2", "visitor_id": "8", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:09.494481", "dwell_seconds": 8.06}
+{"event_id": "f445cb24-18c9-4e4b-ab13-909e24f430f5", "visitor_id": "9", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:09.507940", "dwell_seconds": 4.92}
+{"event_id": "42ac7808-2602-4104-9538-e442ff579672", "visitor_id": "10", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:09.515966", "dwell_seconds": 5.56}
+{"event_id": "f9b9e98f-7e04-432a-a59d-c2bd6a8e1b3b", "visitor_id": "11", "event_type": "EXIT", "camera_id": "CAM_2_ZONE", "timestamp": "2026-06-04T10:18:09.526821", "dwell_seconds": 0.48}
+{"event_id": "f5a0812e-97fd-4082-9e92-aa4269ad1e97", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:16.653562"}
+{"event_id": "228a99cc-d66d-4c0c-90a4-c351208b598f", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:16.660755"}
+{"event_id": "a468037f-6610-4c7f-9475-112d9bb78e49", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:18.440865"}
+{"event_id": "52736bc9-5f99-4c19-9242-34b48082fb81", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:18.449553"}
+{"event_id": "ffb52726-d5a7-4aae-8f1d-fdda5a09a758", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:19.837225"}
+{"event_id": "b334761d-6b1f-4895-854f-87de3ffa2bc3", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:19.853353"}
+{"event_id": "a67efcb3-55b0-420c-ba34-abd3ca7baefa", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:24.390927"}
+{"event_id": "36690fb0-522d-4f8c-a4ad-c85120258a9f", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:24.400563"}
+{"event_id": "32737913-bf58-46e2-bfff-861779f81063", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:29.150201"}
+{"event_id": "bb35aa5b-7352-4b28-90c5-e9265bf37d57", "visitor_id": "4", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:30.422986"}
+{"event_id": "85aba5fc-155c-4e4f-9bb6-457068c42a2f", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:33.223590", "dwell_seconds": 12.83}
+{"event_id": "6d531ca9-41b6-43b4-82e7-292d2f381ff5", "visitor_id": "3", "event_type": "EXIT", "camera_id": "CAM_3_ENTRY", "timestamp": "2026-06-04T10:18:33.234097", "dwell_seconds": 13.38}
+{"event_id": "67d5d392-e17a-4d0d-bd96-414fa238ae64", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:39.396590"}
+{"event_id": "56f38b98-3338-426b-b365-1fa6854f6b35", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:39.409955"}
+{"event_id": "d7bc0564-69ea-433d-94c8-5b60565eddbd", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:45.519718"}
+{"event_id": "de7baca9-dc0d-4ce5-b736-c46df5e5bf88", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:45.535482"}
+{"event_id": "ffd728e7-2c4a-4aee-b25a-3fcf0771c029", "visitor_id": "2", "event_type": "EXIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:51.387329"}
+{"event_id": "09786122-8e0c-4b15-9f35-870f0b0e3ed7", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:53.371941"}
+{"event_id": "239a5323-5196-473d-81ea-42c4d24a4ca1", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:53.390292"}
+{"event_id": "cffcd9d5-4ae0-498c-b8fc-4e730049da5f", "visitor_id": "1", "event_type": "EXIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:18:54.167839"}
+{"event_id": "f7c3f290-2624-4590-8163-8c6ee92f44eb", "visitor_id": "3", "event_type": "EXIT", "camera_id": "CAM_5_BILLING", "timestamp": "2026-06-04T10:19:05.024398", "dwell_seconds": 11.67}
+{"event_id": "51e609ca-4512-4785-b132-7977847096d5", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:13.555071"}
+{"event_id": "e056d929-1ede-4612-8500-413a3f225106", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:13.569557"}
+{"event_id": "7020d778-3789-4e14-9e2d-8b8ecd565a8e", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:16.224096"}
+{"event_id": "1b77f1f3-d9f7-4cd5-8874-dd8e91a3f003", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:16.243292"}
+{"event_id": "71b540c1-d1bd-427b-9c94-1c9dce8eb670", "visitor_id": "1", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:19.335718"}
+{"event_id": "f0ae3ce2-9f27-46ae-8abd-ab3f669bc357", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:22.340556"}
+{"event_id": "f93b7ed7-d17d-488e-8d03-fad30f62c1eb", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:22.359848"}
+{"event_id": "b6d1aafb-1016-4899-b6b7-ac0ca834a8f1", "visitor_id": "2", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:26.646777"}
+{"event_id": "921a9736-eff6-48a4-a9f1-d243b5befb62", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:26.927917"}
+{"event_id": "8bee81f6-533e-4134-9ad0-c16b54a9e60e", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:26.936716"}
+{"event_id": "5b0541f2-e9e7-435f-85a8-2f619f92e5c0", "visitor_id": "5", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:28.096473"}
+{"event_id": "c16885be-085a-4d53-876f-7d70dff25363", "visitor_id": "5", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:28.115270"}
+{"event_id": "16700b1d-6359-4e7e-b19e-6cbf024c8bbc", "visitor_id": "6", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:28.127958"}
+{"event_id": "ec9bff0b-d73a-4d3e-bb55-6c21788afbdc", "visitor_id": "6", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:28.138752"}
+{"event_id": "7a997925-23a9-49b3-a10b-83516a262db2", "visitor_id": "7", "event_type": "ENTRY", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:30.060511"}
+{"event_id": "80c617c1-fa82-4128-aa41-d5618b6ad0aa", "visitor_id": "7", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:30.079070"}
+{"event_id": "1a29c648-7fde-4285-a06c-29114661079a", "visitor_id": "3", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:31.478534", "dwell_seconds": 5.59}
+{"event_id": "4e314e8d-0f35-4e9d-9eb1-2f64b8233ff6", "visitor_id": "4", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:31.496074", "dwell_seconds": 0.38}
+{"event_id": "715289a4-e1f9-4311-bdb6-2acdfc48f844", "visitor_id": "5", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:31.503433", "dwell_seconds": 0.32}
+{"event_id": "6a4a0f6d-60c1-4b68-8194-c718b0c2f3b8", "visitor_id": "6", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:31.515193", "dwell_seconds": 2.24}
+{"event_id": "d77ec56a-2e60-4420-912d-c9c27054d383", "visitor_id": "7", "event_type": "EXIT", "camera_id": "ENTRY_1", "timestamp": "2026-06-04T10:19:31.524461", "dwell_seconds": 0.0}
+{"event_id": "36bfe1fb-37c3-4755-8da7-9a87c0c76217", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:37.496032"}
+{"event_id": "cd0ed34f-affc-4603-bbc1-66d53d006325", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:37.514064"}
+{"event_id": "edcd653a-fa9b-4ec0-b4be-eea43f35880b", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:37.521578"}
+{"event_id": "d455f841-5e27-435c-82dd-b938f1884623", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:37.527006"}
+{"event_id": "5a8d9a2c-675a-4b8d-a9ce-f221a1b20201", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:40.143818"}
+{"event_id": "9f4bb599-026b-4a78-93bd-2897cc7f0d6f", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:40.162800"}
+{"event_id": "dae7fc04-2634-40b9-a680-c0186148f1f3", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:41.885592"}
+{"event_id": "5ea2b790-1d3b-4985-b6d2-127c7fd9220b", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:41.911386"}
+{"event_id": "d6cd1002-a56d-44b7-83ff-3666f9435fbf", "visitor_id": "5", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:43.043674"}
+{"event_id": "4a3ee444-f7dd-4a75-9d4a-86ea05a23ab3", "visitor_id": "5", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:43.064169"}
+{"event_id": "dbd1f95b-346b-4e22-a362-f47c1805d2f1", "visitor_id": "6", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:43.077183"}
+{"event_id": "aeb21203-1c18-4956-8a44-342835f08f95", "visitor_id": "6", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:43.097965"}
+{"event_id": "5fb0dfe3-6bf4-4224-bd73-256efcd059b7", "visitor_id": "7", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:43.947508"}
+{"event_id": "e743ca64-9761-46d1-b485-5c79ef088863", "visitor_id": "7", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:43.970384"}
+{"event_id": "314858e4-fca5-4c35-80c6-28348b2431fb", "visitor_id": "8", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:44.114523"}
+{"event_id": "44588f90-0d2f-4944-87f1-37f1a7410c0c", "visitor_id": "8", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:44.123426"}
+{"event_id": "65b9dcae-2ab0-4e3c-b3d1-307c7c7bb414", "visitor_id": "9", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:45.806142"}
+{"event_id": "0cf9d9f2-a0d4-414d-b572-1cd8f7b5bec3", "visitor_id": "9", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:45.824073"}
+{"event_id": "04870450-7d1f-499f-a3f4-e7bd5fee73e3", "visitor_id": "1", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:46.209330"}
+{"event_id": "359926c4-899d-4c87-aa73-14c04806f68f", "visitor_id": "3", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:47.215824"}
+{"event_id": "4bddeb89-2666-44e3-bc20-10c806e8811e", "visitor_id": "4", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:47.825574"}
+{"event_id": "280bd158-25bb-4a58-8ce4-823625e0ac7b", "visitor_id": "10", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:49.384597"}
+{"event_id": "7edcaeaa-2c5c-4df8-8e58-01f37742dfe3", "visitor_id": "10", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:49.403906"}
+{"event_id": "9c7fb535-8ad2-42cd-9e68-b459cc7e61dd", "visitor_id": "7", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:51.542318"}
+{"event_id": "f3a934fd-8c8e-4c18-af4d-418dd41123ea", "visitor_id": "2", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:51.907577"}
+{"event_id": "42a3465f-8289-4f73-887d-ebfaf88eb6b2", "visitor_id": "8", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:51.920769"}
+{"event_id": "9a70c10f-8ac2-4c33-85a8-f563ef02fb54", "visitor_id": "5", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:52.490566"}
+{"event_id": "7f32b5c9-22c3-47b6-a796-83cc5a69d6f7", "visitor_id": "11", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:53.436828"}
+{"event_id": "3057f27c-a87e-41a2-bda9-838c8c6a1165", "visitor_id": "11", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:53.455250"}
+{"event_id": "25010304-caf4-4951-9c66-aec41b14ef2e", "visitor_id": "12", "event_type": "ENTRY", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:54.579969"}
+{"event_id": "a7c48f03-e2bf-4aa3-aef7-68545256daf6", "visitor_id": "12", "event_type": "ZONE_VISIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:54.600060"}
+{"event_id": "045dd6c0-532f-4bf9-8875-2fda064834c7", "visitor_id": "10", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:54.898738"}
+{"event_id": "0b26d0ab-d743-43b1-b0ba-406df20f7bc7", "visitor_id": "9", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:55.957668"}
+{"event_id": "74f0f08f-d3f6-4e30-9970-1592b1781d4b", "visitor_id": "6", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:59.046707", "dwell_seconds": 16.04}
+{"event_id": "c7963b1c-69e8-4b4b-b12b-b9b0059d29de", "visitor_id": "11", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:59.064419", "dwell_seconds": 5.32}
+{"event_id": "3d1dbbdd-75f9-4781-901b-8716476a0ef0", "visitor_id": "12", "event_type": "EXIT", "camera_id": "ENTRY_2", "timestamp": "2026-06-04T10:19:59.075095", "dwell_seconds": 4.5}
+{"event_id": "43a340c3-d4c8-4c97-a343-2f20e2c65aeb", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:12.012337"}
+{"event_id": "be003b69-80a9-464e-944c-f7670a252645", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:12.019803"}
+{"event_id": "95ae3fb2-9673-4433-b922-6e945ed79382", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:19.461449"}
+{"event_id": "da864ae3-607a-4f3c-8e64-b37118412e1a", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:19.478155"}
+{"event_id": "7ebd6932-3516-4c82-a5eb-55be0d856985", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:20.536699"}
+{"event_id": "7f72689e-c629-4b12-be19-62c4cf17374b", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:20.558882"}
+{"event_id": "5cd51fe8-1bd3-4bac-af88-ea0fd150f82c", "visitor_id": "1", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:22.863825"}
+{"event_id": "2f7d0f9c-3875-40e9-bf0f-60f44a46257d", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:26.070351"}
+{"event_id": "ced7ca28-ec64-4503-9c75-eac56071972f", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:26.089080"}
+{"event_id": "0221dc97-bf3e-48f0-93e0-e8be7d1b0455", "visitor_id": "2", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:26.734641"}
+{"event_id": "971e0ea0-8abd-4e8e-a2d9-1413157f2376", "visitor_id": "3", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:31.634800", "dwell_seconds": 11.12}
+{"event_id": "40aa068a-ec5e-4f94-a2da-ece88b2ea9b4", "visitor_id": "4", "event_type": "EXIT", "camera_id": "BILLING_AREA", "timestamp": "2026-06-04T10:20:31.650016", "dwell_seconds": 3.89}
+{"event_id": "876582ad-3f0e-48c1-8f35-b34e92df92cd", "visitor_id": "1", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:42.367700"}
+{"event_id": "e49ca900-ab60-4b8a-90d2-fd3414cd9fe5", "visitor_id": "1", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:42.387635"}
+{"event_id": "ca6727d5-8f33-407f-afb2-d052d2cf713f", "visitor_id": "2", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:45.824129"}
+{"event_id": "8d8e4596-564f-4578-97ae-9ec3fa6f548f", "visitor_id": "2", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:45.831974"}
+{"event_id": "23bc8ffd-0b3b-41db-bcea-7878153f0f0c", "visitor_id": "3", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:46.867869"}
+{"event_id": "9328f15a-91db-45c2-b300-67c6b66684c2", "visitor_id": "3", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:46.887260"}
+{"event_id": "0febe41f-b842-4c1e-aeb8-96ba9a9f2e9e", "visitor_id": "4", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:49.780843"}
+{"event_id": "5a043cd2-3af4-4725-9936-e25c70b23945", "visitor_id": "4", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:49.799940"}
+{"event_id": "46426859-90a2-4628-b582-027e3922213e", "visitor_id": "2", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:50.894775"}
+{"event_id": "2f17bcb9-8f1f-498f-b652-7e7218fc22b1", "visitor_id": "3", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:52.415544"}
+{"event_id": "fe1dfdac-a8d1-4da6-86e7-eee0e3007808", "visitor_id": "5", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:53.118760"}
+{"event_id": "9bd6f5b2-144a-4f2d-8fb7-01319280fa06", "visitor_id": "5", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:53.142648"}
+{"event_id": "53c7d5aa-70bb-418d-b2d0-353ecdce5288", "visitor_id": "6", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:53.467636"}
+{"event_id": "ab1bf748-2342-47b2-815d-b3d8c61e1c7a", "visitor_id": "6", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:53.498125"}
+{"event_id": "8e9965f0-3720-4ca5-9cdd-8aebaaccb4f5", "visitor_id": "4", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:55.213809"}
+{"event_id": "ddec3bec-384c-4622-93df-f413a69861d1", "visitor_id": "7", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:55.676361"}
+{"event_id": "2840d39b-777d-4fc8-a4d0-6d33935b7a51", "visitor_id": "7", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:55.694245"}
+{"event_id": "60464464-6674-4fe6-bfc9-7b05628edb20", "visitor_id": "1", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:57.117476"}
+{"event_id": "92b8a0b8-2049-435c-a147-51bd7c706de3", "visitor_id": "6", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:21:58.644240"}
+{"event_id": "683752cf-81cb-4e11-8934-f04560269e1b", "visitor_id": "7", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:22:00.688520"}
+{"event_id": "19d57c36-6fc7-4955-98c4-930f9d4f362a", "visitor_id": "8", "event_type": "ENTRY", "camera_id": "ZONE", "timestamp": "2026-06-04T10:22:02.923501"}
+{"event_id": "19bf284e-6a00-4d53-af8f-b1cb3856d0b5", "visitor_id": "8", "event_type": "ZONE_VISIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:22:02.941053"}
+{"event_id": "9537ff1f-128d-45f1-b254-28c3b720490b", "visitor_id": "5", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:22:04.755921"}
+{"event_id": "7f07755f-74a0-4f97-98cc-102f00778880", "visitor_id": "8", "event_type": "EXIT", "camera_id": "ZONE", "timestamp": "2026-06-04T10:22:05.007142", "dwell_seconds": 0.25}

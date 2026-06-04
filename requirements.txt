@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+opencv-python
+ultralytics
+supervision
+numpy
+pandas
+streamlit
+pytest
+python-multipart
